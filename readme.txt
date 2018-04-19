@@ -1,4 +1,4 @@
 Estamos aprendiendo git!!
-sdfjngjambñlfdgghhola
+escribimos algo que tenga sentido
 fvadjnkdg
 probando nuevas modificaciones
