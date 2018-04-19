@@ -1,5 +1,5 @@
 Estamos aprendiendo git!!
-sdfjngjambñlfdgghhola
+escribimos algo que tenga sentido
 fvadjnkdg
 probando nuevas modificaciones
 agregar una ultima linea
